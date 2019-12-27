@@ -3,7 +3,7 @@
 Plugin Name: Animated Featured Image
 Plugin URI: http://codexspot.com/afi-demo/
 Description: Responsive Featured Image for Sidebar Widgets with CSS3 Animations and Styles
-Version: 1.0.1
+Version: 1.0.2
 Author: Mobeen Abdullah
 Author URI: http://codexspot.com
 License: GPLv2 or later
