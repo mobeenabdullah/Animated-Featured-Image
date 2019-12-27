@@ -3,8 +3,8 @@ Contributors: mobeen-abdullah, talentedaamer
 Donate link http://wedon'tneeddonations.smile
 Tags: responsive image widget, responsive widget, css3 animations, css3 banner, responsive image, featured image, featured image widget, image banner, featured widget, image, images,  widget, sidebar
 Requires at least: 3.0.1
-Tested up to: 4.1
-Stable tag: 5.3.1
+Tested up to: 5.3.1
+Stable tag: 4.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
